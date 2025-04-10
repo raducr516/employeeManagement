@@ -8,7 +8,6 @@ for login/register:
 }
 
 {
-
   "username": "",
   "password": ""
   
@@ -19,7 +18,6 @@ for employee management:
 add employee:
 
  {
- 
         "nume": "Ion",
         "prenume": "Popescu",
         "nrDeTelefon": "0723456789",
